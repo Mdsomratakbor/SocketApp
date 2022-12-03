@@ -9,6 +9,20 @@
             "name": "Launch Client",
             "request": "launch",
             "mainClass": "socket.Client",
+            "projectName": "SocketApp_201bfebb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server",
+            "request": "launch",
+            "mainClass": "socket.Server",
+            "projectName": "SocketApp_201bfebb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client",
+            "request": "launch",
+            "mainClass": "socket.Client",
             "projectName": "SocketApp_bb48ad53"
         },
         {
